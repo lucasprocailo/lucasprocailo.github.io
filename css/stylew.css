@@ -1,0 +1,62 @@
+h1{
+    color:rgb(173, 36, 36);
+    font-size: 25px;
+}
+div{
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    background-color: rgb(255, 226, 131);
+    padding: 10px;
+    border-radius: 3px;
+    text-align: center;
+    border: 2px solid rgb(134, 132, 11);
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+img{
+    
+    width: 500px;
+    height: 340px;
+    border: 4px dashed rgb(7, 104, 44);
+    
+}
+video{
+    width: 50%;
+    height: 50%;
+    margin:auto;
+    border: 3px solid black;
+    margin-top: 10px;
+    
+}
+p{
+    margin: auto;
+    text-align:justify;
+    width: 60%;
+    padding: 10px;
+}
+ul{
+    width: 30%;
+    margin: auto;
+    text-align: left;
+}
+li{
+    font-size: large;
+    padding: 10px;
+}
+table{
+    border:1px solid black;
+    width: 70%;
+    margin: auto;
+}
+tr{
+    border: 3px solid black;
+
+}
+td{
+    border:3px solid black;
+}
+iframe{
+    margin: 30px;
+}
